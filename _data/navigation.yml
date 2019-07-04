@@ -2,7 +2,6 @@
 main:
   - title: "Publications"
     url: /publications/
-    url: /work in progress/
 
   - title: "Talks"
     url: /talks/    
