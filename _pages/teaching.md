@@ -1,4 +1,4 @@
----
+﻿---
 layout: archive
 title: "Teaching"
 permalink: /teaching/
@@ -13,7 +13,7 @@ Instructor at University of California, Riverside, Summer 2015
 ======
 * Course: Statistics for Business (40 students), which covers 
   * descriptive statistics 
-  * probability, discrete and continuous distributions, Bayes� theorem
+  * probability, discrete and continuous distributions, Bayes’ theorem
   * random variables, estimation and confidence intervals, hypothesis testing
   * analysis of variance and simple linear regression
 		
