@@ -11,7 +11,7 @@ author_profile: true
 
 Invited Talks
 ======
-* International Indian Statistical Association at University of Florida, Florida, USA, October 2019
+* International Indian Statistical Association at Mumbai, India, December 2019
 
 * Frontiers in Single-cell Technology, Applications and Data Analysis, Banff International Research Station, Canada, February 2019
 
@@ -19,7 +19,7 @@ Invited Talks
 
 * International Conference on Advances in Interdisciplinary Statistics and Combinatorics at Greensboro, North Carolina, USA, October 2018 (Session: Design of Experiments: Recent Advances)
 
-* International Indian Statistical Association at University of Florida, Florida, USA, October 2018
+* International Indian Statistical Association at University of Florida, Florida, USA, May 2018
 
 * Statistics Seminar, Dept.~of Statistics, University of California, Riverside,  October 2015
 
