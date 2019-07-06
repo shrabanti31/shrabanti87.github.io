@@ -23,7 +23,6 @@ Instructor at University of California, Riverside, Summer 2015
 
 Teaching Assistant at University of California, Riverside, April 2012 - June 2016
 ======
-
 * Courses: Sample Surveys, Statistics for Business, Introduction to Statistics
 		
 * Responsibilities: Class discussion, Laboratory instruction, Holding office hours, Grading, and Proctoring
