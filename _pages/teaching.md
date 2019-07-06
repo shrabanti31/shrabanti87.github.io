@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Teaching"
-permalink: teaching
+permalink: /teaching/
 author_profile: true
 
 ---
@@ -9,13 +9,13 @@ author_profile: true
 {% include base_path %}
 
 
-Instructor at University of California, Riverside during Summer 2015
+Instructor at University of California, Riverside, Summer 2015
 ======
 * Course: Statistics for Business (40 students), which covers 
-	* descriptive statistics 
-	* probability, discrete and continuous distributions, Bayes’ theorem
-	* random variables, estimation and confidence intervals, hypothesis testing
-	* analysis of variance and simple linear regression
+  * descriptive statistics 
+  * probability, discrete and continuous distributions, Bayes’ theorem
+  * random variables, estimation and confidence intervals, hypothesis testing
+  * analysis of variance and simple linear regression
 		
 * Responsibilities: Planning and designing the course, Delivering lectures, Holding office hours, Assigning homeworks, and Writing quizzes and exams
 	
