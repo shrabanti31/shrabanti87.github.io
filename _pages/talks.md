@@ -1,4 +1,4 @@
----
+﻿---
 layout: archive
 title: "Conference Talks"
 permalink: /talks/
