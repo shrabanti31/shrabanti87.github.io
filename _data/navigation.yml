@@ -12,11 +12,11 @@ main:
   # - title: "Portfolio"
     # url: /portfolio/
         
-  - title: "Review Responsibility"
-    url: /year-archive/
+  - title: "Other Responsibilities"
+    url: /other_responsibilities/
     
   #- title: "CV"
    # url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  - title: "Awards"
+    url: /awards/
