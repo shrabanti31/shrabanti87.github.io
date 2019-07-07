@@ -14,5 +14,5 @@ Currently I am a research fellow in the Department Genetics and Genomic Sciences
 My research interest lies broadly in developing novel statistical methodologies with application in biomedical sciences. Currently  Other areas of Statistics/Biostatistics I am interested in include but not limited to: adaptive design including SMART  designs, personalized medicine (dynamic treatment regime), Bayesian non parametric modeling and high dimensional variable selection for zero inflated outcome models.
 
 
-Here is my [CV](http://shrabantu87.github.io/files/Shrabanti CV.pdf)
+Here is my [CV](http://shrabanti87.github.io/files/Shrabanti_CV.pdf)
 
