@@ -46,7 +46,7 @@ Near Submission/Work in Progress
 ======
 * Ma, Weiping, Kim, Sunkyu, **Chowdhury, Shrabanti** et al. Novel Imputation Strategy of Proteomics Data: DreamAI (Near Submission, to be submitted in Nature Methods)
 
-* Jacob et al. Incorporating an expandable multiplexed MRM assay panel focused on normalization of breast cancer microheterogeneity improves the correlation between immuno-MRM-based protein quantification in cancer tissues and prognostic marker classification based on IHC ((Near Submission, to be submitted in Molecular Oncology)
+* Jacob et al. Incorporating an expandable multiplexed MRM assay panel focused on normalization of breast cancer microheterogeneity improves the correlation between immuno-MRM-based protein quantification in cancer tissues and prognostic marker classification based on IHC (Near Submission, to be submitted in Molecular Oncology)
 
 * Chatterjee, Suvo, **Chowdhury, Shrabanti** and Ryu, Duchwan. Bayesian Functional Data Analysis over Dependent Regions and Its Application for Identification of Differentially Methylated Regions (Near Submission, to be submitted in Biometrics)
 
