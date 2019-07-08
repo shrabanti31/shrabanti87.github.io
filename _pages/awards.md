@@ -9,8 +9,6 @@ author_profile: true
 {% include base_path %}
 
 
-Current Editorial Board Membership
-======
 * [IMS New Researcher Conference](http://groups.imstat.org/newresearchers/conferences/nrc.html) 2019 Travel Award
 * Recipient of International Indian Statistical Association Travel Award 2018
 * Recipient of [Patient Centered Outcome Research Institute](https://www.pcori.org/) Trainee Scholarship Award 2016
