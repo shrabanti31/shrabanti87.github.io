@@ -11,17 +11,17 @@ author_profile: true
 
 Invited Talks
 ======
-* International Indian Statistical Association at Mumbai, India, December 2019
+* [International Indian Statistical Association](https://www.intindstat.org/iisaconference2019/) at Mumbai, India, December 2019
 
-* Frontiers in Single-cell Technology, Applications and Data Analysis, Banff International Research Station, Canada, February 2019
+* [Frontiers in Single-cell Technology, Applications and Data Analysis](https://www.birs.ca/events/2019/5-day-workshops/19w5032), Banff International Research Station, Canada, February 2019
 
-* International Conference on Advances in Interdisciplinary Statistics and Combinatorics at Greensboro, North Carolina, USA, October 2018 (Session: Advances in Biostatistics and Epidemiology)
+* [International Conference on Advances in Interdisciplinary Statistics and Combinatorics](https://mathstats.uncg.edu/aisc/2018-conference/home/) at Greensboro, North Carolina, USA, October 2018 (Session: Advances in Biostatistics and Epidemiology)
 
-* International Conference on Advances in Interdisciplinary Statistics and Combinatorics at Greensboro, North Carolina, USA, October 2018 (Session: Design of Experiments: Recent Advances)
+* [International Conference on Advances in Interdisciplinary Statistics and Combinatorics](https://mathstats.uncg.edu/aisc/2018-conference/home/) at Greensboro, North Carolina, USA, October 2018 (Session: Design of Experiments: Recent Advances)
 
-* International Indian Statistical Association at University of Florida, Florida, USA, May 2018
+* [International Indian Statistical Association](http://iisa2018.biostat.ufl.edu/) at University of Florida, Florida, USA, May 2018
 
-* Statistics Seminar, Dept.~of Statistics, University of California, Riverside,  October 2015
+* Statistics Seminar, [Department of Statistics](https://statistics.ucr.edu/), University of California, Riverside,  October 2015
 
 
 Other Contributed Talks
