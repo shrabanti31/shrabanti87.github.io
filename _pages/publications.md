@@ -51,7 +51,7 @@ Near Submission/Work in Progress
 * Chatterjee, Suvo, **Chowdhury, Shrabanti** and Ryu, Duchwan. Bayesian Functional Data Analysis over Dependent Regions and Its Application for Identification of Differentially Methylated Regions (Near Submission, to be submitted in Biometrics)
 
 
-* **Chowdhury, Shrabanti** et al. Proteogenomic Analysis of Ovarian Cancer Cell line Response to Carboplatin (In Progress)
+* Proteogenomic Analysis of Ovarian Cancer Cell line Response to Carboplatin (In Progress)
 
-* **Chowdhury, Shrabanti** et al. Gene Regulatory Network Learning via Directed Acyclic Graph (In Progress)
+* Gene Regulatory Network Learning via Directed Acyclic Graph (In Progress)
 
