@@ -11,8 +11,6 @@ author_profile: true
 
 Invited Talks
 ======
-* [International Indian Statistical Association Conference](https://www.intindstat.org/iisaconference2019/) at Mumbai, India, December 2019
-
 * [Frontiers in Single-cell Technology, Applications and Data Analysis](https://www.birs.ca/events/2019/5-day-workshops/19w5032), Banff International Research Station, Canada, February 2019
 
 * [International Conference on Advances in Interdisciplinary Statistics and Combinatorics](https://mathstats.uncg.edu/aisc/2018-conference/home/) at Greensboro, North Carolina, USA, October 2018 (Session: Advances in Biostatistics and Epidemiology)
