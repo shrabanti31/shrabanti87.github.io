@@ -34,7 +34,7 @@ Under Review/Revision
 ======
 * Clark, David et al. Integrated Proteogenomic Characterization of Clear Cell Renal Cell Carcinoma (Under revision in Cell) 
 	    
-* **Chowdhury, Shrabanti**, Lukemire, Joshua and Mandal, Abhyudyay. A-ComVar: A Flexible Extension of Common Variance Designs (Under review in Journal of Statistical Theory Practice). [Paper link](https://arxiv.org/abs/1904.02597)	
+* **Chowdhury, Shrabanti**, Lukemire, Joshua and Mandal, Abhyudyay. A-ComVar: A Flexible Extension of Common Variance Designs (Under revision in Journal of Statistical Theory and Practice). [Paper link](https://arxiv.org/abs/1904.02597)	
            
 * Chatterjee, Saptarshi, **Chowdhury, Shrabanti** and Basu, Sanjib. Tests for Association Using Cut Point Based Categorization of Prognostic Variables (Under reiew in JRSS-C)
        
