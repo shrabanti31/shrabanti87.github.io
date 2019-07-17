@@ -21,7 +21,7 @@ Invited Talks
 
 * Statistics Seminar, [Department of Statistics](https://statistics.ucr.edu/), University of California, Riverside,  October 2015
 
-Commpetitively Selected Workshops/Talks
+Competitively Selected Workshops/Talks
 ======
 * [IMS New Researcher Conference](http://groups.imstat.org/newresearchers/conferences/nrc.html) 2019, Colorado State University, Colorado, USA
 
