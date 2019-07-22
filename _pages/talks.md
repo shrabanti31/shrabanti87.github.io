@@ -11,6 +11,8 @@ author_profile: true
 
 Invited Talks
 ======
+* [International Indian Statistical Association Conference](https://www.intindstat.org/iisaconference2019/) at Indian Institute of Technology Mumbai, India, USA, December 2019
+
 * [Frontiers in Single-cell Technology, Applications and Data Analysis](https://www.birs.ca/events/2019/5-day-workshops/19w5032), Banff International Research Station, Canada, February 2019
 
 * [International Conference on Advances in Interdisciplinary Statistics and Combinatorics](https://mathstats.uncg.edu/aisc/2018-conference/home/) at Greensboro, North Carolina, USA, October 2018 (Session: Advances in Biostatistics and Epidemiology)
@@ -21,6 +23,7 @@ Invited Talks
 
 * Statistics Seminar, [Department of Statistics](https://statistics.ucr.edu/), University of California, Riverside,  October 2015
 
+
 Participation in Workshops (Competetive Selection)
 ======
 * [IMS New Researcher Conference](http://groups.imstat.org/newresearchers/conferences/nrc.html) 2019, Colorado State University, Colorado, USA
@@ -30,8 +33,8 @@ Participation in Workshops (Competetive Selection)
 
 Talks in NCI-CPTAC Grant Meetings
 ======
-*  NCI site-visit for annual PTRC meeting 2019, Fred Hutchinson Cancer Center, Seattle, Washington, USA
-*  NCI site-visit for annual PGDAC meeting 2019, Icahn School of Medicine at Mount Sinai, New York, NY, USA
+*  NCI site-visit for annual PTRC meeting, May 2019, Fred Hutchinson Cancer Center, Seattle, Washington, USA
+*  NCI site-visit for annual PGDAC meeting, April 2019, Icahn School of Medicine at Mount Sinai, New York, NY, USA
 
 
 Other Contributed Talks
