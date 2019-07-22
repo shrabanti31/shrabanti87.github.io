@@ -21,12 +21,17 @@ Invited Talks
 
 * Statistics Seminar, [Department of Statistics](https://statistics.ucr.edu/), University of California, Riverside,  October 2015
 
-Competitively Selected Workshops/Talks
+Participation in Workshops (Competetive Selection)
 ======
 * [IMS New Researcher Conference](http://groups.imstat.org/newresearchers/conferences/nrc.html) 2019, Colorado State University, Colorado, USA
 
 * [20th Industrial Mathematical and Statistical Modeling Workshop for Graduate Students](https://samsiatrtp.wordpress.com/2014/07/) at [SAMSI](https://www.samsi.info/) 2014, North Carolina State University, North Carolina, USA
 
+
+Talks in NCI-CPTAC Grant Meetings
+======
+*  NCI site-visit for annual PTRC meeting 2019, Fred Hutchinson Cancer Center, Seattle, Washington, USA
+*  NCI site-visit for annual PGDAC meeting 2019, Icahn School of Medicine at Mount Sinai, New York, NY, USA
 
 
 Other Contributed Talks
