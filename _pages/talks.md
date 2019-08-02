@@ -24,7 +24,7 @@ Invited Talks
 * Statistics Seminar, [Department of Statistics](https://statistics.ucr.edu/), University of California, Riverside,  October 2015
 
 
-Participation in Workshops (Competetive Selection)
+Participation in Workshops (Competitive Selection)
 ======
 * [IMS New Researcher Conference](http://groups.imstat.org/newresearchers/conferences/nrc.html) 2019, Colorado State University, Colorado, USA
 
