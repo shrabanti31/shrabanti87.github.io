@@ -12,7 +12,7 @@ Near Submission/Work in Progress
 ======
 * Gene Regulatory Network Learning via Directed Acyclic Graph (In Progress)
 
-* Proteogenomic Analysis in pediatric Brain Tumor (In progress)
+* Proteogenomic Analysis in Pediatric Brain Tumor (In progress)
 
 * **Chowdhury, Shrabanti** et al. Proteogenomic Analysis of Ovarian Cancer Cell-line Response to Carboplatin (Near Submission, to be submitted in **Cell**)
 
