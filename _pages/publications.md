@@ -10,7 +10,7 @@ author_profile: true
 
 Near Submission/Work in Progress
 ======
-* Gene Regulatory Network Learning via Directed Acyclic Graph (In Progress)
+* Gene Regulatory Network Learning using Directed Acyclic Graph (In Progress)
 
 * Proteogenomic Analysis in Pediatric Brain Tumor (In progress)
 
