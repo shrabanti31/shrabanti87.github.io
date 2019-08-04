@@ -12,7 +12,7 @@ Near Submission/Work in Progress
 ======
 * Gene Regulatory Network Learning via Directed Acyclic Graph (In Progress)
 
-* Proteogenomic Analysis of Ovarian Cancer Cell-line Response to Carboplatin (Near Submission, to be submitted in **Cell**)
+* **Chowdhury, Shrabanti** et al. Proteogenomic Analysis of Ovarian Cancer Cell-line Response to Carboplatin (Near Submission, to be submitted in **Cell**)
 
 * Ma, Weiping, Kim, Sunkyu, **Chowdhury, Shrabanti** et al. Novel Imputation Strategy of Proteomics Data: DreamAI (Near Submission, to be submitted in **Nature Methods**). R package available in [github](https://github.com/WangLab-MSSM/DreamAI)
 
