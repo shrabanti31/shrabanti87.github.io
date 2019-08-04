@@ -8,7 +8,30 @@ author_profile: true
 
 {% include base_path %}
 
- 
+Near Submission/Work in Progress
+======
+* Gene Regulatory Network Learning via Directed Acyclic Graph (In Progress)
+
+* Proteogenomic Analysis of Ovarian Cancer Cell-line Response to Carboplatin (In Progress)
+
+* Ma, Weiping, Kim, Sunkyu, **Chowdhury, Shrabanti** et al. Novel Imputation Strategy of Proteomics Data: DreamAI (Near Submission, to be submitted in Nature Methods)
+
+* Kennedy, Jacob, ..., **Chowdhury, Shrabanti** et al. Incorporating an expandable multiplexed MRM assay panel focused on normalization of breast cancer microheterogeneity improves the correlation between immuno-MRM-based protein quantification in cancer tissues and prognostic marker classification based on IHC (Near Submission, to be submitted in Molecular Oncology)
+
+* Chatterjee, Suvo, **Chowdhury, Shrabanti** and Ryu, Duchwan. Bayesian Functional Data Analysis over Dependent Regions and Its Application for Identification of Differentially Methylated Regions (Near Submission, to be submitted in Biometrics)
+
+
+Under Review/Revision
+======
+* Clark, David, ..., **Chowdhury, Shrabanti** et al. Integrated Proteogenomic Characterization of Clear Cell Renal Cell Carcinoma (Under revision in Cell) 
+
+* Tignor, Nicole, ..., **Chowdhury, Shrabanti** et al. Objective Measurement of Activity and Sleep in an Observational study of a chronic disease using HealthKit and ResearchKit: The Asthma Mobile Health Study (Under review in Nature Biotechnology)
+
+* **Chowdhury, Shrabanti**, Lukemire, Joshua and Mandal, Abhyudyay. A-ComVar: A Flexible Extension of Common Variance Designs (Under revision in Journal of Statistical Theory and Practice). [Paper link](https://arxiv.org/abs/1904.02597)	
+           
+* Chatterjee, Saptarshi, **Chowdhury, Shrabanti** and Basu, Sanjib. Tests for Association Using Cut Point Based Categorization of Prognostic Variables (Under reiew in JRSS-C)
+       
+
 Published
 ======
 * **Chowdhury, Shrabanti**, Tiwari, R. C. and Ghosh, S. Bayesian Approach for Assessing Non-inferiority in Three-arm Trials for Risk Ratio and Odds Ratio (Statistics in Biopharmaceutical Research, 2019). [Paper link](https://amstat.tandfonline.com/doi/full/10.1080/19466315.2018.1554504)
@@ -28,30 +51,5 @@ Published
 * Banerjee, Prithish, Garai, Broti, Mallick, Himel, **Chowdhury, Shrabanti**, Chatterjee, Saptarshi. A Note on the Adaptive LASSO for Zero-Inflated Poisson Regression (Journal of Probability and Statistics, 2018). [Paper link](https://www.hindawi.com/journals/jps/2018/2834183/abs/)
 			
 * Ghosh, Subir and **Chowdhury, Shrabanti**. CV, ECV, and Robust CV designs for replications under a class of linear models for factorial experiments (Journal of Statistical Planning and Inference, 2017). [Paper link](https://www.sciencedirect.com/science/article/pii/S0378375817300393)
-
-
-Under Review/Revision
-======
-* Clark, David et al. Integrated Proteogenomic Characterization of Clear Cell Renal Cell Carcinoma (Under revision in Cell) 
-	    
-* **Chowdhury, Shrabanti**, Lukemire, Joshua and Mandal, Abhyudyay. A-ComVar: A Flexible Extension of Common Variance Designs (Under revision in Journal of Statistical Theory and Practice). [Paper link](https://arxiv.org/abs/1904.02597)	
-           
-* Chatterjee, Saptarshi, **Chowdhury, Shrabanti** and Basu, Sanjib. Tests for Association Using Cut Point Based Categorization of Prognostic Variables (Under reiew in JRSS-C)
-       
-* Tignor, Nicole, Ma, Weiping, Zweig, Micol, Rogers, Linda, **Chowdhury, Shrabanti** et al. Objective Measurement of Activity and Sleep in an Observational study of a chronic disease using HealthKit and ResearchKit: The Asthma Mobile Health Study (Under review in Nature Biotechnology)
-		
-
-
-Near Submission/Work in Progress
-======
-* Ma, Weiping, Kim, Sunkyu, **Chowdhury, Shrabanti** et al. Novel Imputation Strategy of Proteomics Data: DreamAI (Near Submission, to be submitted in Nature Methods)
-
-* Jacob et al. Incorporating an expandable multiplexed MRM assay panel focused on normalization of breast cancer microheterogeneity improves the correlation between immuno-MRM-based protein quantification in cancer tissues and prognostic marker classification based on IHC (Near Submission, to be submitted in Molecular Oncology)
-
-* Chatterjee, Suvo, **Chowdhury, Shrabanti** and Ryu, Duchwan. Bayesian Functional Data Analysis over Dependent Regions and Its Application for Identification of Differentially Methylated Regions (Near Submission, to be submitted in Biometrics)
-
-
-* Proteogenomic Analysis of Ovarian Cancer Cell line Response to Carboplatin (In Progress)
-
-* Gene Regulatory Network Learning via Directed Acyclic Graph (In Progress)
+	
 
