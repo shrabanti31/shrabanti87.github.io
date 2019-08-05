@@ -56,11 +56,11 @@ Other Contributed Talks
 
 Selected Posters
 ======
-* NCI-CPTAC Annual Meeting at NIH, Washington, DC, USA, April 2019 
+* [NCI-CPTAC](https://proteomics.cancer.gov/programs/cptac) Annual Meeting at NIH, Washington, DC, USA, April 2019 
 
-* NCI-CPTAC Annual Meeting at NIH, Washington, DC, October 2018 
+* [NCI-CPTAC](https://proteomics.cancer.gov/programs/cptac) Annual Meeting at NIH, Washington, DC, October 2018 
 
 * Michigan Regional Postdoctoral Symposium, Detroit, MI, September 2017
 
-* Patient Centered Outcome Research Institute (PCORI) Annual Meeting Workshop, Maryland,  November 2016
+* [Patient Centered Outcome Research Institute](https://www.pcori.org/) Annual Meeting Workshop, Maryland,  November 2016
 
