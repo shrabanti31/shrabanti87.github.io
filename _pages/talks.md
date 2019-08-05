@@ -34,7 +34,7 @@ Participation in Workshops (Competitive Selection)
 Talks in NCI-CPTAC Grant Meetings
 ======
 *  NCI site-visit for annual PTRC meeting, May 2019, [Fred Hutchinson Cancer Center](http://www.fredhutch.org/en.html), Seattle, Washington, USA
-*  NCI site-visit for annual PGDAC meeting, April 2019, [Icahn School of Medicine at Mount Sinai] (https://icahn.mssm.edu/research/genomics), New York, NY, USA
+*  NCI site-visit for annual PGDAC meeting, April 2019, [Icahn School of Medicine at Mount Sinai](https://icahn.mssm.edu/research/genomics), New York, NY, USA
 
 
 Other Contributed Talks
