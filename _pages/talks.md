@@ -11,7 +11,7 @@ author_profile: true
 
 Invited Talks
 ======
-* [International Indian Statistical Association Conference](https://www.intindstat.org/iisaconference2019/) at Mumbai, India, December 2019
+* [International Indian Statistical Association Conference](https://www.intindstat.org/iisaconference2019/) at Indian Institute of Technology Mumbai, India, USA, December 2019
 
 * [Frontiers in Single-cell Technology, Applications and Data Analysis](https://www.birs.ca/events/2019/5-day-workshops/19w5032), Banff International Research Station, Canada, February 2019
 
@@ -22,6 +22,19 @@ Invited Talks
 * [International Indian Statistical Association Conference](http://iisa2018.biostat.ufl.edu/) at University of Florida, Florida, USA, May 2018
 
 * Statistics Seminar, [Department of Statistics](https://statistics.ucr.edu/), University of California, Riverside,  October 2015
+
+
+Participation in Workshops (Competitive Selection)
+======
+* [IMS New Researcher Conference](http://groups.imstat.org/newresearchers/conferences/nrc.html) 2019, Colorado State University, Colorado, USA
+
+* [20th Industrial Mathematical and Statistical Modeling Workshop for Graduate Students](https://samsiatrtp.wordpress.com/2014/07/) at [SAMSI](https://www.samsi.info/) 2014, North Carolina State University, North Carolina, USA
+
+
+Talks in [NCI-CPTAC](https://proteomics.cancer.gov/programs/cptac) Grant Meetings
+======
+*  NCI site-visit for annual PTRC meeting, May 2019, [Fred Hutchinson Cancer Center](http://www.fredhutch.org/en.html), Seattle, Washington, USA
+*  NCI site-visit for annual PGDAC meeting, April 2019, [Icahn School of Medicine at Mount Sinai](https://icahn.mssm.edu/research/genomics), New York, NY, USA
 
 
 Other Contributed Talks
@@ -43,11 +56,11 @@ Other Contributed Talks
 
 Selected Posters
 ======
-* NCI-CPTAC Annual Meeting at NIH, Washington, DC, USA, April 2019 
+* [NCI-CPTAC](https://proteomics.cancer.gov/programs/cptac) Annual Meeting at NIH, Washington, DC, USA, April 2019 
 
-* NCI-CPTAC Annual Meeting at NIH, Washington, DC, October 2018 
+* [NCI-CPTAC](https://proteomics.cancer.gov/programs/cptac) Annual Meeting at NIH, Washington, DC, October 2018 
 
 * Michigan Regional Postdoctoral Symposium, Detroit, MI, September 2017
 
-* Patient Centered Outcome Research Institute (PCORI) Annual Meeting Workshop, Maryland,  November 2016
+* [Patient Centered Outcome Research Institute](https://www.pcori.org/) Annual Meeting Workshop, Maryland,  November 2016
 
