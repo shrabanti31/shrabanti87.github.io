@@ -25,7 +25,6 @@ Near Submission/Work in Progress
 
 Under Review/Revision
 ======
-* Clark, David, ..., **Chowdhury, Shrabanti** et al. Integrated Proteogenomic Characterization of Clear Cell Renal Cell Carcinoma (Under revision in **Cell**) 
 
 * Tignor, Nicole, ..., **Chowdhury, Shrabanti** et al. Objective Measurement of Activity and Sleep in an Observational study of a chronic disease using HealthKit and ResearchKit: The Asthma Mobile Health Study (Under review in **Nature Biotechnology**)
 
@@ -36,6 +35,8 @@ Under Review/Revision
 
 Published
 ======
+* Clark, David, ..., **Chowdhury, Shrabanti** et al. Integrated Proteogenomic Characterization of Clear Cell Renal Cell Carcinoma (Accepted in **Cell**) 
+
 * **Chowdhury, Shrabanti**, Tiwari, R. C. and Ghosh, S. Bayesian Approach for Assessing Non-inferiority in Three-arm Trials for Risk Ratio and Odds Ratio (**Statistics in Biopharmaceutical Research**, 2019). [Paper link](https://amstat.tandfonline.com/doi/full/10.1080/19466315.2018.1554504)
 			
 * **Chowdhury, Shrabanti**, Tiwari, R. C. and Ghosh, S. Approaches for testing non-inferiority in two-arm trials for Risk Ratio and Odds Ratio (**Journal of Biopharmaceutical Statistics**, 2019). [Paper link](https://www.tandfonline.com/doi/abs/10.1080/10543406.2019.1572616)
