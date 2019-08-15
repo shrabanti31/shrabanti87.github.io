@@ -10,11 +10,11 @@ author_profile: true
 
 Near Submission/Work in Progress
 ======
-* Gene Regulatory Network Learning using Directed Acyclic Graph (In Progress)
+* **Chowdhury, Shrabanti** et al. Gene Regulatory Network Learning using Directed Acyclic Graph (Near Submission, to be submitted in **Cell Systems**)
 
-* Proteogenomic Analysis in Pediatric Brain Tumor (In progress)
+* Tignor, Nicole, ..., **Chowdhury, Shrabanti** et al. Proteogenomic Analysis in Pediatric Brain Tumor (Near Submission, to be submitted in **Cell**)
 
-* **Chowdhury, Shrabanti** et al. Proteogenomic Analysis of Ovarian Cancer Cell-line Response to Carboplatin (Near Submission, to be submitted in **Cell**)
+* **Chowdhury, Shrabanti** et al. Proteogenomic Analysis of Ovarian Cancer Cell-line Response to Carboplatin (Near Submission, to be submitted in **Cell Reports**)
 
 * Ma, Weiping, Kim, Sunkyu, **Chowdhury, Shrabanti** et al. Novel Imputation Strategy of Proteomics Data: DreamAI (Near Submission, to be submitted in **Nature Methods**). R package available in [github](https://github.com/WangLab-MSSM/DreamAI)
 
