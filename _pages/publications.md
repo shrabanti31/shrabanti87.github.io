@@ -37,11 +37,12 @@ Published
 ======
 * Clark, David, ..., **Chowdhury, Shrabanti** et al. Integrated Proteogenomic Characterization of Clear Cell Renal Cell Carcinoma (Accepted in **Cell**, Aug 2019) 
 
+* Sylvie, N., Hudgens, M.G., Brookmeyer, R., Carcone, A., Chapman, J., **Chowdhury, Shrabanti** et al. Improving the Youth HIV Prevention and Care Cascades: Innovative Designs in the Adolescent Trials Network for HIV/AIDS Interventions (Accepted in **AIDS Patient care and STDs**, July 2019). 
+
 * **Chowdhury, Shrabanti**, Tiwari, R. C. and Ghosh, S. Bayesian Approach for Assessing Non-inferiority in Three-arm Trials for Risk Ratio and Odds Ratio (**Statistics in Biopharmaceutical Research**, 2019). [Paper link](https://amstat.tandfonline.com/doi/full/10.1080/19466315.2018.1554504)
 			
 * **Chowdhury, Shrabanti**, Tiwari, R. C. and Ghosh, S. Approaches for testing non-inferiority in two-arm trials for Risk Ratio and Odds Ratio (**Journal of Biopharmaceutical Statistics**, 2019). [Paper link](https://www.tandfonline.com/doi/abs/10.1080/10543406.2019.1572616)
 			
-* Sylvie, N., Hudgens, M.G., Brookmeyer, R., Carcone, A., Chapman, J., **Chowdhury, Shrabanti** et al. Improving the Youth HIV Prevention and Care Cascades: Innovative Designs in the Adolescent Trials Network for HIV/AIDS Interventions (**AIDS Patient care and STDs**, 2019). 
 		 		
 * **Chowdhury, Shrabanti**, Chatterjee, Saptarshi, Mallick, Himel, Banerjee, Prithish, Garai, Broti. Group Regularizatin for Zero-inflated Count Regression Models with an Application to Insurance Ratemaking (**Journal of Applied Statistics**, 2018). [Paper link](https://www.tandfonline.com/doi/abs/10.1080/02664763.2018.1555232)
 		 
