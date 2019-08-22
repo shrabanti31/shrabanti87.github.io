@@ -14,7 +14,7 @@ Near Submission/Work in Progress
 
 * Tignor, Nicole, ..., **Chowdhury, Shrabanti** et al. Proteogenomic Analysis in Pediatric Brain Tumor (Near Submission, to be submitted in **Cell**)
 
-* **Chowdhury, Shrabanti** et al. Proteogenomic Analysis of Ovarian Cancer Cell-line Response to Carboplatin (Near Submission, to be submitted in **Cell Reports**)
+* **Chowdhury, Shrabanti** et al. Proteogenomic approach to identify mechanisms of platinum refractoriness in high-grade serous ovarian cancers (Near Submission, to be submitted in **Cell Reports**)
 
 * Ma, Weiping, Kim, Sunkyu, **Chowdhury, Shrabanti** et al. Novel Imputation Strategy of Proteomics Data: DreamAI (Near Submission, to be submitted in **Nature Methods**). R package available in [github](https://github.com/WangLab-MSSM/DreamAI)
 
