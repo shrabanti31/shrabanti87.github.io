@@ -26,9 +26,9 @@ Invited Talks
 
 Participation in Workshops (Competitive Selection)
 ======
-* [IMS New Researcher Conference](http://groups.imstat.org/newresearchers/conferences/nrc.html) 2019, Colorado State University, Colorado, USA
+* [IMS New Researcher Conference](http://groups.imstat.org/newresearchers/conferences/nrc.html) July 2019, Colorado State University, Colorado, USA
 
-* [20th Industrial Mathematical and Statistical Modeling Workshop for Graduate Students](https://samsiatrtp.wordpress.com/2014/07/) at [SAMSI](https://www.samsi.info/) 2014, North Carolina State University, North Carolina, USA
+* [20th Industrial Mathematical and Statistical Modeling Workshop for Graduate Students](https://samsiatrtp.wordpress.com/2014/07/) at [SAMSI](https://www.samsi.info/) July 2014, North Carolina State University, North Carolina, USA
 
 
 Talks in [NCI-CPTAC](https://proteomics.cancer.gov/programs/cptac) Grant Meetings
