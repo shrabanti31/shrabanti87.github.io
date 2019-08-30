@@ -50,6 +50,7 @@ Published
 * **Chowdhury, Shrabanti**, Tiwari, R. C. and Ghosh, S. Non-inferiority Testing for Risk Ratio, Odds Ratio and Number Needed to Treat in Three-arm Trial (**Computational Statistics and data Analysis**, 2018). [Paper link](https://www.sciencedirect.com/science/article/pii/S0167947318302019)
 			
 * Chatterjee, Saptarshi\*, **Chowdhury, Shrabanti**\*, Mallick, Himel, Banerjee, Prithish, Garai, Broti. Group Regularization for Zero-inflated Count Regression Models with an Application to Healthcare Demand in Germany (**Statistics in Medicine**, 2018). [Paper link](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.7804)
+\*Co-first authors
 			
 
 * Banerjee, Prithish, Garai, Broti, Mallick, Himel, **Chowdhury, Shrabanti**, Chatterjee, Saptarshi. A Note on the Adaptive LASSO for Zero-Inflated Poisson Regression (**Journal of Probability and Statistics**, 2018). [Paper link](https://www.hindawi.com/journals/jps/2018/2834183/abs/)
