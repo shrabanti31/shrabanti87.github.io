@@ -16,7 +16,8 @@ Near Submission/Work in Progress
 
 * **Chowdhury, Shrabanti** et al. Proteogenomic approach to identify mechanisms of platinum refractoriness in high-grade serous ovarian cancers (Near Submission, to be submitted in **Cell Reports**)
 
-* Ma, Weiping\*, Kim, Sunkyu\*, **Chowdhury, Shrabanti** et al. Novel Imputation Strategy of Proteomics Data: DreamAI (Near Submission, to be submitted in **Nature Methods**). R package available in [github](https://github.com/WangLab-MSSM/DreamAI)
+* Ma, Weiping\*, Kim, Sunkyu\*, **Chowdhury, Shrabanti** et al. Novel Imputation Strategy of Proteomics Data: DreamAI (Near Submission, to be submitted in **Nature Methods**). R package available in [github](https://github.com/WangLab-MSSM/DreamAI) 
+
 \*Co-first authors
 
 * Kennedy, Jacob, ..., **Chowdhury, Shrabanti** et al. Incorporating an expandable multiplexed MRM assay panel focused on normalization of breast cancer microheterogeneity improves the correlation between immuno-MRM-based protein quantification in cancer tissues and prognostic marker classification based on IHC (Near Submission, to be submitted in **Molecular Oncology**)
