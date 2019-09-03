@@ -10,7 +10,7 @@ author_profile: true
 
 Near Submission/Work in Progress
 ======
-* **Chowdhury, Shrabanti** et al. Learning Directed Acyclic Graphs to Identify Potential Markers Driving Response to Chemotherapy in Ovarian Cancer Based on Time Course Proteomics Data (Near Submission, to be submitted in **Cell Systems**)
+* **Chowdhury, Shrabanti** et al. Learning Directed Acyclic Graphs to Identify Potential Markers Driving Response to Chemotherapy in Ovarian Cancer Based on Time-course Proteomics Data (Near Submission, to be submitted in **Cell Systems**)
 
 * Tignor, Nicole, ..., **Chowdhury, Shrabanti** et al. Integrated Proteogenomic Characterization in Pediatric Brain Tumors (Near Submission, to be submitted in **Cell**)
 
