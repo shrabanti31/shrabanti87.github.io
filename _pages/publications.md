@@ -10,13 +10,14 @@ author_profile: true
 
 Near Submission/Work in Progress
 ======
-* **Chowdhury, Shrabanti** et al. Directed Acyclic Graphs Learning to Identify Potential Markers Driving Response to Chemotherapy in Ovarian Cancer Based on Time Course Proteomics Data (Near Submission, to be submitted in **Cell Systems**)
+* **Chowdhury, Shrabanti** et al. Learning Directed Acyclic Graphs to Identify Potential Markers Driving Response to Chemotherapy in Ovarian Cancer Based on Time Course Proteomics Data (Near Submission, to be submitted in **Cell Systems**)
 
-* Tignor, Nicole, ..., **Chowdhury, Shrabanti** et al. Proteogenomic Analysis in Pediatric Brain Tumor (Near Submission, to be submitted in **Cell**)
+* Tignor, Nicole, ..., **Chowdhury, Shrabanti** et al. Integrated Proteogenomic Characterization in Pediatric Brain Tumors (Near Submission, to be submitted in **Cell**)
 
 * **Chowdhury, Shrabanti** et al. Proteogenomic approach to identify mechanisms of platinum refractoriness in high-grade serous ovarian cancers (Near Submission, to be submitted in **Cell Reports**)
 
-* Ma, Weiping, Kim, Sunkyu, **Chowdhury, Shrabanti** et al. Novel Imputation Strategy of Proteomics Data: DreamAI (Near Submission, to be submitted in **Nature Methods**). R package available in [github](https://github.com/WangLab-MSSM/DreamAI)
+* Ma, Weiping\*, Kim, Sunkyu\*, **Chowdhury, Shrabanti** et al. Novel Imputation Strategy of Proteomics Data: DreamAI (Near Submission, to be submitted in **Nature Methods**). R package available in [github](https://github.com/WangLab-MSSM/DreamAI)
+\*Co-first authors
 
 * Kennedy, Jacob, ..., **Chowdhury, Shrabanti** et al. Incorporating an expandable multiplexed MRM assay panel focused on normalization of breast cancer microheterogeneity improves the correlation between immuno-MRM-based protein quantification in cancer tissues and prognostic marker classification based on IHC (Near Submission, to be submitted in **Molecular Oncology**)
 
