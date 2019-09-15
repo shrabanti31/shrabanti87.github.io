@@ -15,6 +15,8 @@ Invited Talks
 
 * [Frontiers in Single-cell Technology, Applications and Data Analysis](https://www.birs.ca/events/2019/5-day-workshops/19w5032), Banff International Research Station, Canada, February 2019
 
+* Invited to present at [Statistical and Computational Challenges in High-Throughput Genomics with Application to Precision Medicine](https://www.birs.ca/events/2018/5-day-workshops/18w5202/participants),  Casa Matemática Oaxaca, Mexico, November 2018. Talk presented by Dr. Pei Wang. [Video here](http://www.birs.ca/events/2018/5-day-workshops/18w5202/videos/watch/201811061535-Chowdhury.html) 
+
 * [International Conference on Advances in Interdisciplinary Statistics and Combinatorics](https://mathstats.uncg.edu/aisc/2018-conference/home/) at Greensboro, North Carolina, USA, October 2018 (Session: Advances in Biostatistics and Epidemiology)
 
 * [International Conference on Advances in Interdisciplinary Statistics and Combinatorics](https://mathstats.uncg.edu/aisc/2018-conference/home/) at Greensboro, North Carolina, USA, October 2018 (Session: Design of Experiments: Recent Advances)
