@@ -39,7 +39,7 @@ Talks in [NCI-CPTAC](https://proteomics.cancer.gov/programs/cptac) Grant Meeting
 *  NCI site-visit for annual PGDAC meeting, April 2019, [Icahn School of Medicine at Mount Sinai](https://icahn.mssm.edu/research/genomics), New York, NY, USA
 
 
-Other Contributed Talks
+Selected Contributed Talks
 ======
 * Joint Statistical Meeting Conference at Denver, Colorado, USA, July 2019
 
