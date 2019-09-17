@@ -57,5 +57,6 @@ Published
 * Banerjee, Prithish, Garai, Broti, Mallick, Himel, **Chowdhury, Shrabanti**, Chatterjee, Saptarshi. A Note on the Adaptive LASSO for Zero-Inflated Poisson Regression (**Journal of Probability and Statistics**, 2018). [Paper link](https://www.hindawi.com/journals/jps/2018/2834183/abs/)
 			
 * Ghosh, Subir and **Chowdhury, Shrabanti**. CV, ECV, and Robust CV designs for replications under a class of linear models for factorial experiments (**Journal of Statistical Planning and Inference**, 2017). [Paper link](https://www.sciencedirect.com/science/article/pii/S0378375817300393)
-	
+
+* Fatena El-Masri*, Karianne Bergen*, Obeng Addai*, Piaomu Liu*, Shrabanti Chowdhury*, Xin Huang*, Mark Wolff, & Kennith Lopiano (2014).  Analysis of Self-Reported Health Outcomes Data from Web-Based Media Sources, in 2014 Mathematical and Statistical Modeling Workshop for Graduate Students, eds. Pierre Gremaud, Ilse C.F. Ipsen, and Ralph Smith, CRSC Technical Report TR14-11. [Link](https://projects.ncsu.edu/crsc/reports/ftp/pdf/crsc-tr14-11.pdf). [Workshop Website](https://samsiatrtp.wordpress.com/tag/imsm/) 
 
