@@ -28,7 +28,7 @@ Invited Talks
 
 Participation in Workshops (Competitive Selection)
 ======
-* [Quantitative Challenges in Cancer Immunology and Immunotherapy](https://www.hsph.harvard.edu/2019-pqg-conference/), Harvard Medical School, Boston, MA
+* [Quantitative Challenges in Cancer Immunology and Immunotherapy](https://www.hsph.harvard.edu/2019-pqg-conference/), November 2019, Harvard Medical School, Boston, MA
 
 * [IMS New Researcher Conference](http://groups.imstat.org/newresearchers/conferences/nrc.html) July 2019, Colorado State University, Colorado, USA
 
@@ -60,11 +60,11 @@ Selected Contributed Talks
 
 Selected Posters
 ======
+* [NCI-CPTAC](https://proteomics.cancer.gov/programs/cptac) Annual Meeting at NIH, Washington, DC, USA, October 2019 
+
 * [NCI-CPTAC](https://proteomics.cancer.gov/programs/cptac) Annual Meeting at NIH, Washington, DC, USA, April 2019 
 
 * [NCI-CPTAC](https://proteomics.cancer.gov/programs/cptac) Annual Meeting at NIH, Washington, DC, October 2018 
-
-* Michigan Regional Postdoctoral Symposium, Detroit, MI, September 2017
 
 * [Patient Centered Outcome Research Institute](https://www.pcori.org/) Annual Meeting Workshop, Maryland,  November 2016
 
