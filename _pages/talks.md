@@ -28,6 +28,8 @@ Invited Talks
 
 Participation in Workshops (Competitive Selection)
 ======
+* [Quantitative Challenges in Cancer Immunology and Immunotherapy](https://www.hsph.harvard.edu/2019-pqg-conference/), Harvard Medical School, Boston, MA
+
 * [IMS New Researcher Conference](http://groups.imstat.org/newresearchers/conferences/nrc.html) July 2019, Colorado State University, Colorado, USA
 
 * [20th Industrial Mathematical and Statistical Modeling Workshop for Graduate Students](https://samsiatrtp.wordpress.com/2014/07/) at [SAMSI](https://www.samsi.info/) July 2014, North Carolina State University, North Carolina, USA
