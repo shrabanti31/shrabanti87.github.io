@@ -26,13 +26,13 @@ Invited Talks
 * Statistics Seminar, [Department of Statistics](https://statistics.ucr.edu/), University of California, Riverside,  October 2015
 
 
-Participation in Workshops (Competitive Selection)
+Participation in Workshops
 ======
 * [Quantitative Challenges in Cancer Immunology and Immunotherapy](https://www.hsph.harvard.edu/2019-pqg-conference/), November 2019, Harvard Medical School, Boston, MA
 
-* [IMS New Researcher Conference](http://groups.imstat.org/newresearchers/conferences/nrc.html) July 2019, Colorado State University, Colorado, USA
+* [IMS New Researcher Conference](http://groups.imstat.org/newresearchers/conferences/nrc.html) July 2019, Colorado State University, Colorado, USA  (Competitive Selection)
 
-* [20th Industrial Mathematical and Statistical Modeling Workshop for Graduate Students](https://samsiatrtp.wordpress.com/2014/07/) at [SAMSI](https://www.samsi.info/) July 2014, North Carolina State University, North Carolina, USA
+* [20th Industrial Mathematical and Statistical Modeling Workshop for Graduate Students](https://samsiatrtp.wordpress.com/2014/07/) at [SAMSI](https://www.samsi.info/) July 2014, North Carolina State University, North Carolina, USA  (Competitive Selection)
 
 
 Talks in [NCI-CPTAC](https://proteomics.cancer.gov/programs/cptac) Grant Meetings
@@ -48,8 +48,6 @@ Selected Contributed Talks
 * Joint Statistical Meeting Conference at Vancouver, British Columbia, Canada, July 2018
 
 * Eastern Northern American Region Spring Meeting at Atlanta, Georgia, USA,  March 2018
-
-* Wayne State University Researchers of Biobehavioral Health in Urban Settings Today (RoBUST) Symposium, September 2017 (competetively selected)
 
 * Joint Statistical Meeting Conference at Baltimore, Maryland, USA,  July 2017
 
