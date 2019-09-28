@@ -26,7 +26,7 @@ Invited Talks
 * Statistics Seminar, [Department of Statistics](https://statistics.ucr.edu/), University of California, Riverside,  October 2015
 
 
-Participation in Workshops
+Participation in Selected Workshops
 ======
 * [Quantitative Challenges in Cancer Immunology and Immunotherapy](https://www.hsph.harvard.edu/2019-pqg-conference/), November 2019, Harvard Medical School, Boston, MA
 
