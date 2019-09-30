@@ -36,9 +36,9 @@ Under Review/Revision
 
 Published
 ======
-* Clark, David, ..., **Chowdhury, Shrabanti** et al. Integrated Proteogenomic Characterization of Clear Cell Renal Cell Carcinoma (To Appear in **Cell**) 
+* Clark, David, ..., **Chowdhury, Shrabanti** et al. Integrated Proteogenomic Characterization of Clear Cell Renal Cell Carcinoma (To Appear in **Cell**, 2019) 
 
-* Sylvie, N., ..., **Chowdhury, Shrabanti** et al. Improving the Youth HIV Prevention and Care Cascades: Innovative Designs in the Adolescent Trials Network for HIV/AIDS Interventions (**AIDS Patient care and STDs**). [Paper Link](https://www.liebertpub.com/doi/full/10.1089/apc.2019.0095) 
+* Sylvie, N., ..., **Chowdhury, Shrabanti** et al. Improving the Youth HIV Prevention and Care Cascades: Innovative Designs in the Adolescent Trials Network for HIV/AIDS Interventions (**AIDS Patient care and STDs**, 2019). [Paper Link](https://www.liebertpub.com/doi/full/10.1089/apc.2019.0095) 
 
 * **Chowdhury, Shrabanti**, Tiwari, R. C. and Ghosh, S. Bayesian Approach for Assessing Non-inferiority in Three-arm Trials for Risk Ratio and Odds Ratio (**Statistics in Biopharmaceutical Research**, 2019). [Paper link](https://amstat.tandfonline.com/doi/full/10.1080/19466315.2018.1554504)
 			
