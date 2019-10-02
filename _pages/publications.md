@@ -33,6 +33,7 @@ Under Review/Revision
            
 * Chatterjee, Saptarshi, **Chowdhury, Shrabanti** and Basu, Sanjib. Tests for Association Using Cut Point Based Categorization of Prognostic Variables (Under reiew in **JRSS-C**)
        
+* Ghosh, S, **Chowdhury, Shrabanti** et al. Testing for Non-inferiority in Three-arm Trials with Binary Outcome: Novel Frequentist and Bayesian Approaches (Under revisoin in Pharmaceutical Statistics)
 
 Published
 ======
@@ -58,5 +59,5 @@ Published
 			
 * Ghosh, Subir and **Chowdhury, Shrabanti**. CV, ECV, and Robust CV designs for replications under a class of linear models for factorial experiments (**Journal of Statistical Planning and Inference**, 2017). [Paper link](https://www.sciencedirect.com/science/article/pii/S0378375817300393)
 
-* Fatena El-Masri*, Karianne Bergen*, Obeng Addai*, Piaomu Liu*, Shrabanti Chowdhury*, Xin Huang*, Mark Wolff, & Kennith Lopiano (2014).  Analysis of Self-Reported Health Outcomes Data from Web-Based Media Sources, in 2014 Mathematical and Statistical Modeling Workshop for Graduate Students, eds. Pierre Gremaud, Ilse C.F. Ipsen, and Ralph Smith, CRSC Technical Report TR14-11. [Link](https://projects.ncsu.edu/crsc/reports/ftp/pdf/crsc-tr14-11.pdf). [Workshop Website](https://samsiatrtp.wordpress.com/tag/imsm/) 
+* El-Masri, Fatena, ..., **Chowdhury, Shrabanti**, Xin Huang*, Mark Wolff, & Kennith Lopiano (2014).  Analysis of Self-Reported Health Outcomes Data from Web-Based Media Sources, in 2014 Mathematical and Statistical Modeling Workshop for Graduate Students, eds. Pierre Gremaud, Ilse C.F. Ipsen, and Ralph Smith, CRSC Technical Report TR14-11. [Link](https://projects.ncsu.edu/crsc/reports/ftp/pdf/crsc-tr14-11.pdf). [Workshop Website](https://samsiatrtp.wordpress.com/tag/imsm/) 
 
