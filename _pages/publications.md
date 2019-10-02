@@ -33,7 +33,7 @@ Under Review/Revision
            
 * Chatterjee, Saptarshi, **Chowdhury, Shrabanti** and Basu, Sanjib. Tests for Association Using Cut Point Based Categorization of Prognostic Variables (Under reiew in **JRSS-C**)
        
-* Ghosh, S, **Chowdhury, Shrabanti** et al. Testing for Non-inferiority in Three-arm Trials with Binary Outcome: Novel Frequentist and Bayesian Approaches (Under revisoin in Pharmaceutical Statistics)
+* Ghosh, S, **Chowdhury, Shrabanti** et al. Testing for Non-inferiority in Three-arm Trials with Binary Outcome: Novel Frequentist and Bayesian Approaches (Under revisoin in **Pharmaceutical Statistics**)
 
 Published
 ======
