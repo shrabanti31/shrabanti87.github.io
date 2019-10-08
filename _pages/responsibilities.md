@@ -18,6 +18,7 @@ Current Editorial Board Membership
 Review Responsibility
 ======
 Refereed research papers for journals:
+  * [Biometrics](https://onlinelibrary.wiley.com/journal/15410420) 
   * [Plos One](https://journals.plos.org/plosone/)
   * [Pharmaceutical Statistics](https://onlinelibrary.wiley.com/journal/15391612)
   * [Statistics and Probability Letters](https://www.journals.elsevier.com/statistics-and-probability-letters)
