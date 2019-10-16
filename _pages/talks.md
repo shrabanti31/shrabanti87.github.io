@@ -35,7 +35,7 @@ Participation in Selected Workshops
 * [20th Industrial Mathematical and Statistical Modeling Workshop for Graduate Students](https://samsiatrtp.wordpress.com/2014/07/) at [SAMSI](https://www.samsi.info/) July 2014, North Carolina State University, North Carolina, USA  (**Competitive Selection**)
 
 
-Talks in [NCI-CPTAC](https://proteomics.cancer.gov/programs/cptac) Grant Meetings
+Selected Talks in [NCI-CPTAC](https://proteomics.cancer.gov/programs/cptac) Grant Meetings
 ======
 *  NCI site-visit for annual PTRC meeting, May 2019, [Fred Hutchinson Cancer Center](http://www.fredhutch.org/en.html), Seattle, Washington, USA
 *  NCI site-visit for annual PGDAC meeting, April 2019, [Icahn School of Medicine at Mount Sinai](https://icahn.mssm.edu/research/genomics), New York, NY, USA
@@ -58,7 +58,7 @@ Selected Contributed Talks
 
 Selected Posters
 ======
-* [NCI-CPTAC](https://proteomics.cancer.gov/programs/cptac) Annual Meeting at NIH, Washington, DC, USA, October 2019 
+* [NCI-CPTAC](https://events.cancer.gov/cssi/occpr) Annual Meeting at NIH, Washington, DC, USA, October 2019 
 
 * [NCI-CPTAC](https://proteomics.cancer.gov/programs/cptac) Annual Meeting at NIH, Washington, DC, USA, April 2019 
 
