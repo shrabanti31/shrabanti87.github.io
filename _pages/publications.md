@@ -27,7 +27,7 @@ Near Submission/Work in Progress
 Under Review/Revision
 ======
 
-* Tignor, N, ..., **Chowdhury, Shrabanti** et al. Objective Measurement of Activity and Sleep in an Observational study of a chronic disease using HealthKit and ResearchKit: The Asthma Mobile Health Study (Under review in **Nature Biotechnology**)
+* Tignor, N, ..., **Chowdhury, Shrabanti**, ..., Wang, P et al. Objective Measurement of Activity and Sleep in an Observational study of a chronic disease using HealthKit and ResearchKit: The Asthma Mobile Health Study (Under review in **Nature Biotechnology**)
 
 * **Chowdhury, Shrabanti**, Lukemire, Joshua and Mandal, Abhyudyay. A-ComVar: A Flexible Extension of Common Variance Designs (Under revision in **Journal of Statistical Theory and Practice**). [Paper link](https://arxiv.org/abs/1904.02597)	
            
