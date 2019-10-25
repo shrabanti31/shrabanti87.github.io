@@ -12,7 +12,7 @@ Near Submission/Work in Progress
 ======
 * **Chowdhury, Shrabanti**, ..., Wang, P. Learning Directed Acyclic Graphs to Identify Potential Markers Driving Response to Chemotherapy in Ovarian Cancer Based on Time-course Proteomics Data (Near Submission, to be submitted in **Cell Systems**)
 
-* Tignor, N, ..., **Chowdhury, Shrabanti**, ..., Wang, P . Integrated Proteogenomic Characterization in Pediatric Brain Tumors (Near Submission, to be submitted in **Cell**)
+* Tignor, N, ..., **Chowdhury, Shrabanti**, ..., Wang, P . Integrated Proteogenomic Characterization of Pediatric Brain Tumors (Near Submission, to be submitted in **Cell**)
 
 * **Chowdhury, Shrabanti**, ..., Wang, P et al. Proteogenomic approach to identify mechanisms of platinum refractoriness in high-grade serous ovarian cancers (Near Submission, to be submitted in **Cell Reports**)
 
