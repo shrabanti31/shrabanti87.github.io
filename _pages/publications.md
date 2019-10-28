@@ -21,8 +21,6 @@ Near Submission/Work in Progress
 
 * Kennedy, J, ..., **Chowdhury, Shrabanti** et al. Incorporating an expandable multiplexed MRM assay panel focused on normalization of breast cancer microheterogeneity improves the correlation between immuno-MRM-based protein quantification in cancer tissues and prognostic marker classification based on IHC (Near Submission, to be submitted in **Molecular Oncology**)
 
-* Chatterjee, S, **Chowdhury, Shrabanti** and Ryu, Duchwan. Bayesian Functional Data Analysis over Dependent Regions and Its Application for Identification of Differentially Methylated Regions (Near Submission, to be submitted in **Biometrics**)
-
 
 Under Review/Revision
 ======
