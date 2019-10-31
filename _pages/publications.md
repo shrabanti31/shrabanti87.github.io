@@ -33,7 +33,7 @@ Under Review/Revision
 
 Published
 ======
-* Clark, D, ..., **Chowdhury, Shrabanti**, ..., Wang, P et al. Integrated Proteogenomic Characterization of Clear Cell Renal Cell Carcinoma (To Appear in **Cell**, 2019) 
+* Clark, D, ..., **Chowdhury, Shrabanti**, ..., Wang, P et al. Integrated Proteogenomic Characterization of Clear Cell Renal Cell Carcinoma (**Cell**, 2019). [Paper Link](https://doi.org/10.1016/j.cell.2019.10.007)  
 
 * Sylvie, N., ..., **Chowdhury, Shrabanti** et al. Improving the Youth HIV Prevention and Care Cascades: Innovative Designs in the Adolescent Trials Network for HIV/AIDS Interventions (**AIDS Patient care and STDs**, 2019). [Paper Link](https://www.liebertpub.com/doi/full/10.1089/apc.2019.0095) 
 
