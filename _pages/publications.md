@@ -29,7 +29,7 @@ Under Review/Revision
 
 * **Chowdhury, Shrabanti**, Lukemire, Joshua and Mandal, Abhyudyay. A-ComVar: A Flexible Extension of Common Variance Designs (Under revision in **Journal of Statistical Theory and Practice**). [Paper link](https://arxiv.org/abs/1904.02597)	
            
-* Chatterjee, S, **Chowdhury, Shrabanti** and Basu, Sanjib. Tests for Association Using Cut Point Based Categorization of Prognostic Variables (Under reiew in **JRSS-C**)
+* Chatterjee, S, **Chowdhury, Shrabanti** and Basu, Sanjib. Tests for Association Using Cut Point Based Categorization of Prognostic Variables (Under revision in **JRSS-C**)
 
 Published
 ======
