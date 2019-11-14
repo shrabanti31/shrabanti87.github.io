@@ -25,11 +25,12 @@ Near Submission/Work in Progress
 Under Review/Revision
 ======
 
-* Tignor, N, ..., **Chowdhury, Shrabanti**, ..., Wang, P et al. Objective Measurement of Activity and Sleep in an Observational study of a chronic disease using HealthKit and ResearchKit: The Asthma Mobile Health Study (Under review in **Nature Biotechnology**)
+* Chatterjee, S, **Chowdhury, Shrabanti** and Basu, Sanjib. Tests for Association Using Cut Point Based Categorization of Prognostic Variables (Under revision in **JRSS-C**)
 
 * **Chowdhury, Shrabanti**, Lukemire, Joshua and Mandal, Abhyudyay. A-ComVar: A Flexible Extension of Common Variance Designs (Under revision in **Journal of Statistical Theory and Practice**). [Paper link](https://arxiv.org/abs/1904.02597)	
            
-* Chatterjee, S, **Chowdhury, Shrabanti** and Basu, Sanjib. Tests for Association Using Cut Point Based Categorization of Prognostic Variables (Under revision in **JRSS-C**)
+* Tignor, N, ..., **Chowdhury, Shrabanti**, ..., Wang, P et al. Objective Measurement of Activity and Sleep in an Observational study of a chronic disease using HealthKit and ResearchKit: The Asthma Mobile Health Study (Under review in **Nature Biotechnology**)
+
 
 Published
 ======
