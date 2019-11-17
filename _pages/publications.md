@@ -26,14 +26,14 @@ Under Review/Revision
 ======
 
 * Chatterjee, S, **Chowdhury, Shrabanti** and Basu, Sanjib. Tests for Association Using Cut Point Based Categorization of Prognostic Variables (Under revision in **JRSS-C**)
-
-* **Chowdhury, Shrabanti**, Lukemire, Joshua and Mandal, Abhyudyay. A-ComVar: A Flexible Extension of Common Variance Designs (Under revision in **Journal of Statistical Theory and Practice**). [Paper link](https://arxiv.org/abs/1904.02597)	
            
 * Tignor, N, ..., **Chowdhury, Shrabanti**, ..., Wang, P et al. Objective Measurement of Activity and Sleep in an Observational study of a chronic disease using HealthKit and ResearchKit: The Asthma Mobile Health Study (Under review in **Nature Biotechnology**)
 
 
 Published
 ======
+* **Chowdhury, Shrabanti**, Lukemire, Joshua and Mandal, Abhyudyay. A-ComVar: A Flexible Extension of Common Variance Designs (Accepted  in **Journal of Statistical Theory and Practice**). [Paper link](https://arxiv.org/abs/1904.02597)
+
 * Clark, D, ..., **Chowdhury, Shrabanti**, ..., Wang, P et al. Integrated Proteogenomic Characterization of Clear Cell Renal Cell Carcinoma (**Cell**, 2019). [Paper Link](https://www.cell.com/cell/fulltext/S0092-8674(19)31123-7?rss=yes)  
 
 * Sylvie, N., ..., **Chowdhury, Shrabanti** et al. Improving the Youth HIV Prevention and Care Cascades: Innovative Designs in the Adolescent Trials Network for HIV/AIDS Interventions (**AIDS Patient care and STDs**, 2019). [Paper Link](https://www.liebertpub.com/doi/full/10.1089/apc.2019.0095) 
