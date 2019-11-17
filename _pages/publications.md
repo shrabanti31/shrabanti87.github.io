@@ -32,7 +32,7 @@ Under Review/Revision
 
 Published
 ======
-* **Chowdhury, Shrabanti**, Lukemire, Joshua and Mandal, Abhyudyay. A-ComVar: A Flexible Extension of Common Variance Designs (Accepted  in **Journal of Statistical Theory and Practice**). [Paper link](https://arxiv.org/abs/1904.02597)
+* **Chowdhury, Shrabanti**, Lukemire, Joshua and Mandal, Abhyudyay. A-ComVar: A Flexible Extension of Common Variance Designs (Accepted  in **Journal of Statistical Theory and Practice**, 2019). [Paper link](https://arxiv.org/abs/1904.02597)
 
 * Clark, D, ..., **Chowdhury, Shrabanti**, ..., Wang, P et al. Integrated Proteogenomic Characterization of Clear Cell Renal Cell Carcinoma (**Cell**, 2019). [Paper Link](https://www.cell.com/cell/fulltext/S0092-8674(19)31123-7?rss=yes)  
 
