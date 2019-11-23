@@ -10,11 +10,11 @@ author_profile: true
 
 Near Submission/Work in Progress
 ======
-* **Chowdhury, Shrabanti**, ..., Wang, P. Learning Directed Acyclic Graphs to Identify Potential Markers Driving Response to Chemotherapy in Ovarian Cancer Based on Time-course Proteomics Data (Near Submission, to be submitted in **Cell Systems**)
+* **Chowdhury, Shrabanti**, ..., Wang, P. Learning Directed Acyclic Graphs to Identify Potential Markers Driving Response to Chemotherapy in Ovarian Cancer Based on Time-course Proteomics Data (Near Submission)
+
+* **Chowdhury, Shrabanti**, ..., Wang, P et al. Proteogenomic approach to identify mechanisms of platinum refractoriness in high-grade serous ovarian cancers (Near Submission)
 
 * Tignor, N, ..., **Chowdhury, Shrabanti**, ..., Wang, P . Integrated Proteogenomic Characterization of Pediatric Brain Tumors (Near Submission, to be submitted in **Cell**)
-
-* **Chowdhury, Shrabanti**, ..., Wang, P et al. Proteogenomic approach to identify mechanisms of platinum refractoriness in high-grade serous ovarian cancers (Near Submission, to be submitted in **Cell Reports**)
 
 * Ma, W\*, Kim, S\*, **Chowdhury, Shrabanti**, ..., Wang, P. Novel Imputation Strategy of Proteomics Data: DreamAI (Near Submission, to be submitted in **Nature Methods**). R package available in [github](https://github.com/WangLab-MSSM/DreamAI) 
 \*Co-first authors
