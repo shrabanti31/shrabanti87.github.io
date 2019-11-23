@@ -16,6 +16,3 @@ I received my PhD degree in Applied Statistics from [University of California, R
 
 Apart from the aforementioned experiences, other areas of Statistics/Biostatistics I am interested in include but not limited to: adaptive design, personalized medicine (dynamic treatment regime), Bayesian non-parametric modeling and high dimensional variable selection.
 
-
-Here is my [CV](http://shrabanti87.github.io/files/Shrabanti_CV.pdf)
-
