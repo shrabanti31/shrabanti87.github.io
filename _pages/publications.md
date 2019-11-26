@@ -8,7 +8,17 @@ author_profile: true
 
 {% include base_path %}
 
-Near Submission/Work in Progress
+Work in Progress
+======
+
+* Differential gene expression analysis in single cell RNAseq data using Tweedie Compound Poisson Models
+
+* Learning Directed Acyclic Graphs intergrating bulk tumor and single cell RNAseq data
+
+* Gene regulatory co-ecpression network learning in single cell RNAseq data
+
+
+Near Submission
 ======
 * **Chowdhury, Shrabanti**, ..., Wang, P. Learning Directed Acyclic Graphs to Identify Potential Markers Driving Response to Chemotherapy in Ovarian Cancer Based on Time-course Proteomics Data (Near Submission)
 
