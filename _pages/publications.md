@@ -15,7 +15,7 @@ Work in Progress
 
 * Learning Directed Acyclic Graphs intergrating bulk tumor and single cell RNAseq data
 
-* Gene regulatory co-ecpression network learning in single cell RNAseq data
+* Gene regulatory co-expression network learning in single cell RNAseq data
 
 
 Near Submission
