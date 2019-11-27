@@ -24,18 +24,18 @@ Near Submission
 
 * **Chowdhury, Shrabanti**, ..., Wang, P et al. Proteogenomic approach to identify mechanisms of platinum refractoriness in high-grade serous ovarian cancers (Near Submission)
 
-* Tignor, N, ..., **Chowdhury, Shrabanti**, ..., Wang, P . Integrated Proteogenomic Characterization of Pediatric Brain Tumors (Near Submission, to be submitted in **Cell**)
+* Tignor, N, ..., **Chowdhury, Shrabanti**, ..., Wang, P . Integrated Proteogenomic Characterization of Pediatric Brain Tumors (Near Submission)
 
-* Ma, W\*, Kim, S\*, **Chowdhury, Shrabanti**, ..., Wang, P. Novel Imputation Strategy of Proteomics Data: DreamAI (Near Submission, to be submitted in **Nature Methods**). R package available in [github](https://github.com/WangLab-MSSM/DreamAI) 
+* Ma, W\*, Kim, S\*, **Chowdhury, Shrabanti**, ..., Wang, P. Novel Imputation Strategy of Proteomics Data: DreamAI (Near Submission). R package available in [github](https://github.com/WangLab-MSSM/DreamAI) 
 \*Co-first authors
 
-* Kennedy, J, ..., **Chowdhury, Shrabanti** et al. Incorporating an expandable multiplexed MRM assay panel focused on normalization of breast cancer microheterogeneity improves the correlation between immuno-MRM-based protein quantification in cancer tissues and prognostic marker classification based on IHC (Near Submission, to be submitted in **Molecular Oncology**)
+* Kennedy, J, ..., **Chowdhury, Shrabanti** et al. Incorporating an expandable multiplexed MRM assay panel focused on normalization of breast cancer microheterogeneity improves the correlation between immuno-MRM-based protein quantification in cancer tissues and prognostic marker classification based on IHC (Near Submission)
 
 
 Under Review/Revision
 ======
 
-* Chatterjee, S, **Chowdhury, Shrabanti** and Basu, Sanjib. Tests for Association Using Cut Point Based Categorization of Prognostic Variables (Under revision in **JRSS-C**)
+* Chatterjee, S, **Chowdhury, Shrabanti** and Basu, Sanjib. Tests for Association Using Cut Point Based Categorization of Prognostic Variables (Under revision)
            
 * Tignor, N, ..., **Chowdhury, Shrabanti**, ..., Wang, P et al. Objective Measurement of Activity and Sleep in an Observational study of a chronic disease using HealthKit and ResearchKit: The Asthma Mobile Health Study (Under review)
 
