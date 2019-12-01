@@ -26,14 +26,14 @@ Near Submission
 
 * Tignor, N, ..., **Chowdhury, Shrabanti**, ..., Wang, P . Integrated Proteogenomic Characterization of Pediatric Brain Tumors (Near Submission)
 
-* Ma, W\*, Kim, S\*, **Chowdhury, Shrabanti**, ..., Wang, P. Novel Imputation Strategy of Proteomics Data: DreamAI (Near Submission). R package available in [github](https://github.com/WangLab-MSSM/DreamAI) 
-\*Co-first authors
-
 * Kennedy, J, ..., **Chowdhury, Shrabanti** et al. Incorporating an expandable multiplexed MRM assay panel focused on normalization of breast cancer microheterogeneity improves the correlation between immuno-MRM-based protein quantification in cancer tissues and prognostic marker classification based on IHC (Near Submission)
 
 
 Under Review/Revision
 ======
+
+* Ma, W\*, Kim, S\*, **Chowdhury, Shrabanti**, ..., Wang, P. Novel Imputation Strategy of Proteomics Data: DreamAI (Near Submission). R package available in [github](https://github.com/WangLab-MSSM/DreamAI) 
+\*Co-first authors
 
 * Chatterjee, S, **Chowdhury, Shrabanti** and Basu, Sanjib. Tests for Association Using Cut Point Based Categorization of Prognostic Variables (Under revision)
            
