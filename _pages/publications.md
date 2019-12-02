@@ -32,7 +32,7 @@ Near Submission
 Under Review/Revision
 ======
 
-* Ma, W\*, Kim, S\*, **Chowdhury, Shrabanti**, ..., Wang, P. Novel Imputation Strategy of Proteomics Data: DreamAI (Under review). R package available in [github](https://github.com/WangLab-MSSM/DreamAI) 
+* Ma, W\*, Kim, S\*, **Chowdhury, Shrabanti**, ..., Wang, P. DreamAI: algorithm for the imputation of proteomics data (Under review). R package available in [github](https://github.com/WangLab-MSSM/DreamAI) 
 \*Co-first authors
 
 * Chatterjee, S, **Chowdhury, Shrabanti** and Basu, Sanjib. Tests for Association Using Cut Point Based Categorization of Prognostic Variables (Under revision)
