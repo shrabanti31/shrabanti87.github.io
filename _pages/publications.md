@@ -20,19 +20,19 @@ Work in Progress
 
 Near Submission
 ======
-* **Chowdhury, Shrabanti**, ..., Wang, P. Learning Directed Acyclic Graphs to Identify Potential Markers Driving Response to Chemotherapy in Ovarian Cancer Based on Time-course Proteomics Data (Near Submission)
+* **Chowdhury, Shrabanti**, ..., Wang, P. Learning Directed Acyclic Graphs to Identify Potential Markers Driving Response to Chemotherapy in Ovarian Cancer Based on Time-course Proteomics Data
 
-* **Chowdhury, Shrabanti**, ..., Wang, P et al. Proteogenomic approach to identify mechanisms of platinum refractoriness in high-grade serous ovarian cancers (Near Submission)
+* **Chowdhury, Shrabanti**, ..., Wang, P et al. Proteogenomic approach to identify mechanisms of platinum refractoriness in high-grade serous ovarian cancers
 
-* Tignor, N, ..., **Chowdhury, Shrabanti**, ..., Wang, P . Integrated Proteogenomic Characterization of Pediatric Brain Tumors (Near Submission)
+* Tignor, N, ..., **Chowdhury, Shrabanti**, ..., Wang, P . Integrated Proteogenomic Characterization of Pediatric Brain Tumors
 
-* Kennedy, J, ..., **Chowdhury, Shrabanti** et al. Incorporating an expandable multiplexed MRM assay panel focused on normalization of breast cancer microheterogeneity improves the correlation between immuno-MRM-based protein quantification in cancer tissues and prognostic marker classification based on IHC (Near Submission)
+* Kennedy, J, ..., **Chowdhury, Shrabanti** et al. Incorporating an expandable multiplexed MRM assay panel focused on normalization of breast cancer microheterogeneity improves the correlation between immuno-MRM-based protein quantification in cancer tissues and prognostic marker classification based on IHC 
 
 
 Under Review/Revision
 ======
 
-* Ma, W\*, Kim, S\*, **Chowdhury, Shrabanti**, ..., Wang, P. Novel Imputation Strategy of Proteomics Data: DreamAI (Near Submission). R package available in [github](https://github.com/WangLab-MSSM/DreamAI) 
+* Ma, W\*, Kim, S\*, **Chowdhury, Shrabanti**, ..., Wang, P. Novel Imputation Strategy of Proteomics Data: DreamAI (Under review). R package available in [github](https://github.com/WangLab-MSSM/DreamAI) 
 \*Co-first authors
 
 * Chatterjee, S, **Chowdhury, Shrabanti** and Basu, Sanjib. Tests for Association Using Cut Point Based Categorization of Prognostic Variables (Under revision)
