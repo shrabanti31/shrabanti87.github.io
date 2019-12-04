@@ -20,20 +20,20 @@ Work in Progress
 
 Selected Publications
 ======
-* **Chowdhury, Shrabanti**, ..., Wang, P. Learning Directed Acyclic Graphs to Identify Potential Markers Driving Response to Chemotherapy in Ovarian Cancer Based on Time-course Proteomics Data 
+* **Chowdhury, Shrabanti**, ..., Wang, P. Learning Directed Acyclic Graphs to Identify Potential Markers Driving Response to Chemotherapy in Ovarian Cancer Based on Time-course Proteomics Data (Under review)
 
-* **Chowdhury, Shrabanti**, ..., Wang, P et al. Proteogenomic approach to identify mechanisms of platinum refractoriness in high-grade serous ovarian cancers 
+* **Chowdhury, Shrabanti**, ..., Wang, P et al. Proteogenomic approach to identify mechanisms of platinum refractoriness in high-grade serous ovarian cancers (Under review)
 
-* Kennedy, J, ..., **Chowdhury, Shrabanti** et al. Incorporating an expandable multiplexed MRM assay panel focused on normalization of breast cancer microheterogeneity improves the correlation between immuno-MRM-based protein quantification in cancer tissues and prognostic marker classification based on IHC 
+* Kennedy, J, ..., **Chowdhury, Shrabanti** et al. Incorporating an expandable multiplexed MRM assay panel focused on normalization of breast cancer microheterogeneity improves the correlation between immuno-MRM-based protein quantification in cancer tissues and prognostic marker classification based on IHC (Under review) 
 
-* Tignor, N, ..., **Chowdhury, Shrabanti**, ..., Wang, P . Integrated Proteogenomic Characterization of Pediatric Brain Tumors 
+* Tignor, N, ..., **Chowdhury, Shrabanti**, ..., Wang, P . Integrated Proteogenomic Characterization of Pediatric Brain Tumors (Under review)
 
-* Ma, W\*, Kim, S\*, **Chowdhury, Shrabanti**, ..., Wang, P. DreamAI: algorithm for the imputation of proteomics data. R package available in [github](https://github.com/WangLab-MSSM/DreamAI) 
+* Ma, W\*, Kim, S\*, **Chowdhury, Shrabanti**, ..., Wang, P. DreamAI: algorithm for the imputation of proteomics data (Under review). R package available in [github](https://github.com/WangLab-MSSM/DreamAI) 
 \*Co-first authors
 
-* Chatterjee, S, **Chowdhury, Shrabanti** and Basu, Sanjib. Tests for Association Using Cut Point Based Categorization of Prognostic Variables
+* Chatterjee, S, **Chowdhury, Shrabanti** and Basu, Sanjib. Tests for Association Using Cut Point Based Categorization of Prognostic Variables (Under revision)
            
-* Tignor, N, ..., **Chowdhury, Shrabanti**, ..., Wang, P et al. Objective Measurement of Activity and Sleep in an Observational study of a chronic disease using HealthKit and ResearchKit: The Asthma Mobile Health Study 
+* Tignor, N, ..., **Chowdhury, Shrabanti**, ..., Wang, P et al. Objective Measurement of Activity and Sleep in an Observational study of a chronic disease using HealthKit and ResearchKit: The Asthma Mobile Health Study (Under review)
 
 
 * **Chowdhury, Shrabanti**, Lukemire, Joshua and Mandal, Abhyudyay. A-ComVar: A Flexible Extension of Common Variance Designs (**Journal of Statistical Theory and Practice**, 2019). 
